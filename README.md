@@ -126,9 +126,7 @@ If any provision of these terms is found to be unenforceable, the remaining prov
 ## 12. Contact Information
 
 For questions regarding these terms, please contact us at:
-- Email: [support@email.com]
-- Website: [website.com]
-- Support Hours: [business hours]
+- Email: [249coda.dev@gmail.com]  
 
 ---
 
